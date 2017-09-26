@@ -32,3 +32,6 @@
 ## 联系我
 * 邮件(lxm_0828#163.com, 把#换成@)
 * weibo: [@捏明](http://weibo.com/littlelxm)
+
+## 项目链接
+[SVM, FastText, TextCNN, BiGRU, CNN-BiGRU在短文本分类上的对比](https://github.com/SeanLee97/short-text-classification#short-text-classification)
