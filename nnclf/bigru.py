@@ -3,7 +3,7 @@
 
 '''
 BiGRU
-@author webot Sean
+@author Sean
 @last modified 2017.09.06 17:14
 '''
 
