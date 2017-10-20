@@ -19,8 +19,8 @@
 
 ## 运行环境
 
-* **Centos7**   当然其他linux, mac都可以，只要支持PyTorch的系统都可以，不过抱歉某Win不行
-* **python3.6** 不要跟我理论2.7速度有多快，兼容性多好。如果你对比过那我没什么好说，如果你是道听途说的那还是建议你尝试一下3.6版本吧
+* **Centos7**   当然其他linux, mac都可以，只要支持PyTorch的系统都可以，不过不支持windows
+* **python3.6** 
 * **PyTorch V0.2** 记得更新一下PyTorch，因为用到了lr_scheduler，新版才有
 
 ## 知识储备
