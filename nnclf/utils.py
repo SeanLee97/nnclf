@@ -74,7 +74,8 @@ class Dataset(object):
 			idx = random.randint(0, len(self.labels)-1)
 			inputs.append(self.datas[idx])
 			targets.append(self.all_labels.index(self.labels[idx]))
-		inputs = sorted(inputs, key=lambda p: len(p), reverse=True)
+		sorteds = sorted(zip(inputs, targets), key=lambda p: len(p[0]), reverse=True)
+		inputs, targets = zip(*sorteds)
 		inputs_len = [len(x) for x in inputs]
 		max_len = max(inputs_len)
 		inputs_pad = [self.sentence_pad(item, max_len) for item in inputs]
