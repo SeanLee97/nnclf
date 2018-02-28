@@ -30,7 +30,7 @@
 * 虽然有现成解决方案，但强烈推荐看一下word2vec原理，CBOW，Skip-gram，Hierarchical Softmax，Negative Sampling！！！[关于word2vec原理的博客](http://blog.csdn.net/itplus/article/details/37969519)
 
 ## 联系我
-* 邮件(lxm_0828#163.com, 把#换成@)
+* 邮件(xmlee97#gmail.com, 把#换成@)
 * weibo: [@捏明](http://weibo.com/littlelxm)
 
 ## 项目链接
