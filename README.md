@@ -1,3 +1,6 @@
+# 注意
+该项目不再更新，请转到 [clfzoo](https://github.com/SeanLee97/clfzoo)
+
 ![PyTorch](https://raw.githubusercontent.com/SeanLee97/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png)
 
 # nnclf
